@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+matplotlib
+# tambahkan modul lain kalau ada
